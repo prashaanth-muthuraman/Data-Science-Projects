@@ -26,7 +26,7 @@ import pandas as pd
 
 # Storing the Stroke prediction data in a Pandas dataframe variable.
 
-strokeDataFrameOriginal = pd.read_csv('healthcare-dataset-stroke-data.csv')
+strokeDataFrameOriginal = pd.read_csv('healthcare_dataset_stroke_data.csv')
 
 # The 'id' column can be removed from the dataset.
 
