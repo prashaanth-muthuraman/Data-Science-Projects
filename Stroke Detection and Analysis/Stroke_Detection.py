@@ -1,6 +1,3 @@
-# Name: Prashaanth Muthuraman
-# Student Number: R00194750
-
 # Storing the file path of the Stroke prediction dataset in separate 
 # variables for better readability.
 
