@@ -2,8 +2,8 @@
 # https://archive.ics.uci.edu/ml/machine-learningdatabases/statlog/heart/
 
 # The read.delim() function reads a file in table format.
-# The data is space delimited and does not contain any headers, 
-# so it needs to be added later on.
+# The data is space delimited and does not contain any headers, so it needs to 
+# be added later on.
 
 heart_df <- read.delim('heart.dat',sep=' ',stringsAsFactors = 1,header = 0)
 
