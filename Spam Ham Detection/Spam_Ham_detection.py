@@ -1,6 +1,3 @@
-# Name: Prashaanth Muthuraman
-# Student Number: R00194750
-
 # Preprocessing
 # -------------
 
