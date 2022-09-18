@@ -5,7 +5,7 @@
 # The data is space delimited and does not contain any headers, so it needs to 
 # be added later on.
 
-heart_df <- read.delim('heart.dat',sep=' ',stringsAsFactors = 1,header = 0)
+heart_df <- read.delim('heart_data.dat',sep=' ',stringsAsFactors = 1,header = 0)
 
 # Assignment of headers/column names to the dataset.
 
